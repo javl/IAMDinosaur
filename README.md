@@ -16,7 +16,7 @@ jump cactus, using Neural Networks and a simple Genetic Algorithm.
 3. run `npm install` within this folder
 
 4. Open Chrome's dinosaur game and put aside the terminal (It MUST be on the same screen)
-   **(Tip: go to developer tools, and under network, set to offline )**
+   **(Tip: visit chrome://dino to play the game while online)**
 
 5. run `node index` within this folder. If the game was located, it will move the cursor
    of the mouse to the origin of the `floor` of the dino. Press `s` key in the terminal to 
